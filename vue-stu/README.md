@@ -1,21 +1,15 @@
-# vue-stu
+## vue-stu
 
-> A Vue.js project
+学习菜鸟教程
 
-## Build Setup
+熟悉vue基础操作
 
-``` bash
-# install dependencies
-npm install
+## 查看
 
-# serve with hot reload at localhost:8080
-npm run dev
+$ npm i
 
-# build for production with minification
-npm run build
+$ npm run dev
 
-# build for production and view the bundle analyzer 
-npm run build --report
-```
+## 技术
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+vue的基础使用
